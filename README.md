@@ -1,4 +1,4 @@
-# covid19app
+# Covid19 Tracker for India
 
 A new Flutter application.
 
